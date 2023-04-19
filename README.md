@@ -12,6 +12,8 @@ I’m a industrial organization engineer who is passionate about marketing, star
 | 5   | [push_swap](../../../42Malaga-push_swap)			| ✅     |   | 100/100
 | 6  | [minitalk](../../../42Malaga-minitalk)				| ✅     |	| 125/100
 | 7  | [FdF](../../../42Malaga-fdf)							| ✅     |	| 123/100
+| 7  | Minishell							| 📝     |	| 
+| 7  | Philosphers							| 📝     |	| 
 
 
 ## E pluribus unum 🌍 [<img align="left" width="150" height="150" src="https://github.com/Javisanchezf/media/blob/main/javisanchezf.webp"></img>](https://github.com/Javisanchezf)
