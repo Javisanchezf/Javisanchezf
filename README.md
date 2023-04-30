@@ -1,6 +1,6 @@
 <h1 align="center"> <img width="80" height="80" src="https://github.com/Javisanchezf/media/blob/main/javisanchezf.webp"> Hi, I’m Javi</img>  </h1>
 <h3 align="center">Industrial Management Engineer | 42 Málaga student | Knowmad</h3>
-<h4 align="center">See my <a href="https://github.com/Javisanchezf/blob/main/CV-FranciscoJavierSánchezFernández-EN.pdf" target="_blank">resume</a> for more</h4>
+<h4 align="center">See my <a href="https://github.com/Javisanchezf/Javisanchezf/blob/main/CV-FranciscoJavierS%C3%A1nchezFern%C3%A1ndez-EN.pdf" target="_blank">resume</a> for more</h4>
 
 <picture>
   <source
