@@ -31,7 +31,7 @@
 
 <h2 align="center">My Technical Skills</h2>
 
-<h3>Lenguages</h3>
+<h3>Languages</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css)](https://skillicons.dev)
 
