@@ -97,13 +97,11 @@
 | 25 | Inception | Docker-Compose project | 🔒 |  |
 | 26 | ft_transcendence | Implementation of a multiplayer game server | 🔒 |  |
 
-
 ---
 
 <div align="center">
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/javiersa?1337Badge=off&UM6P=off" alt="javiersa's 42 stats" /></a>
 </div>
-
 
 </div>
 </details>
