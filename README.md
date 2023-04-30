@@ -1,25 +1,137 @@
-# Hi, I’m Javi👋🏼
+<h1 align="center"> <img width="80" height="80" src="https://github.com/Javisanchezf/media/blob/main/javisanchezf.webp"> Hi, I’m Javi</img>  </h1>
+<h3 align="center">Industrial Management Engineer | 42 Málaga student | Knowmad</h3>
+<h4 align="center">See my <a href="https://github.com/Javisanchezf/blob/main/CV-FranciscoJavierSánchezFernández-EN.pdf" target="_blank">resume</a> for more</h4>
 
-I’m a industrial organization engineer who is passionate about marketing, startups and technology. I have recently joined the community and I look forward to contributing as much as I can!  I love the concepts of open-source, teamwork and knowledge sharing in general creating technology to elevate people, and bullding community.
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="
+      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg
+    "
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="
+      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg
+    "
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
-## 42cursus Progress
-| No  | Project												| Status |   | Grade 
-| :-: | :------------------------------------------ | :----: | - | :-: 
-| 1   | [libft](../../../42Malaga-libft)					| ✅     |   | 100/100
-| 2   | [ft_printf](../../../42Malaga-ft_printf)			| ✅     |	| 100/100
-| 3   | [get_next_line](../../../42Malaga-get_next_line)	| ✅     |	| 112/100
-| 4   | Born2beroot      									| ✅     |   | 125/100
-| 5   | [push_swap](../../../42Malaga-push_swap)			| ✅     |   | 100/100
-| 6  | [minitalk](../../../42Malaga-minitalk)				| ✅     |	| 125/100
-| 7  | [FdF](../../../42Malaga-fdf)							| ✅     |	| 123/100
-| 8  | Minishell							| 📝     |	| 
-| 9  | Philosphers							| 📝     |	| 
+<details>
+  <summary>🧍 About me</summary>
+<h2 align="center">About me</h2>
+
+<p>I’m a Industrial Management Engineer who is passionate about marketing, startups and technology. I have recently joined the community and I look forward to contributing as much as I can! I love the concepts of open-source, teamwork and knowledge sharing in general creating technology to elevate people, and bullding community.
+
+---
+
+<h2 align="center">My Technical Skills</h2>
+
+<h3>Lenguages</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css)](https://skillicons.dev)
+
+<h3>Tools</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=bash,vim,vscode,stackoverflow,github,git,visualstudio,wordpress)](https://skillicons.dev)
+
+</details>
+
+<details>
+  <summary>📱 Contact</summary>
+<div align="center">
+    <h2 align="center">You can reach me by:</h2>
+    <p align="center">
+      <br/>
+      <a href="https://www.linkedin.com/in/javiersanchezf/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitE"
+         alt="javiersanchezf linkedin" height="30"/></a>
+      <a href="mailto:javiersanchezf@hotmail.com" target="blank"><img align="center"
+         src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="Javiersanchezf mail" height="30"/></a>
+      <a href="https://wa.me/+34633112626" target="blank"><img align="center"
+         src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+         alt="Javiersanchezf Whatsapp" height="30"/></a>
+      <br>
+    </p>
+</details>
+
+<details>
+  <summary>🎓 42 Cursus projects</summary>
+<div align="center">
+
+<h2>42 Cursus projects</h2>
+
+<p align="left">This is my Github profile where you can find all the projects I have completed during my time at 42.</p>
+
+| Nº | Project Name | Description | Status | Grade |
+| --- | --- | --- | --- | --- |
+| 01 | [libft](../../../42Malaga-libft) | My first own C library | ✅ | 100/100 |
+| 02 | [ft_printf](../../../42Malaga-ft_printf)             | Recoding the printf function | ✅ | 100/100 |
+| 03 | [get_next_line](../../../42Malaga-get_next_line)     | A function that reads a line from a file descriptor | ✅ | 112/100 |
+| 04 | Born2beroot | Setting up a secured server | ✅ | 125/100 |
+| 05 | [push_swap](../../../42Malaga-push_swap) | A sorting algorithm using two stacks | ✅ | 100/100 |
+| 06 | [minitalk](../../../42Malaga-minitalk)                | A client-server program to exchange messages using signals | ✅ | 125/100 |
+| 07 | [FdF](../../../42Malaga-fdf)                          | A 3D wireframe renderer | ✅ | 123/100 |
+| 08 | Philosphers | A program that simulates the dining philosophers problem | 🛠️ |  |
+| 09 | minishell | A UNIX shell implementation | 🛠️ |  |
+| 10 | cub3d | A raycasting 3D game engine | 🔒 |  |
+| 11 | miniRT | A raytracing program that generates images from 3D scenes | 🔒 |  |
+| 12 | CPP Module 00 | Introduction to C++ | 🔒 |  |
+| 13 | CPP Module 01 | Memory allocation and references in C++ | 🔒 |  |
+| 14 | CPP Module 02 | Ad-hoc polymorphism, operators overload and canonical classes in C++ | 🔒 |  |
+| 15 | CPP Module 03 | Inheritance in C++ | 🔒 |  |
+| 16 | CPP Module 04 | Subtype polymorphism, abstract classes, interfaces in C++ | 🔒 |  |
+| 17 | CPP Module 05 | Nested classes, exceptions, and file streams in C++ | 🔒 |  |
+| 18 | CPP Module 06 | Casts in C++, templates, STL | 🔒 |  |
+| 19 | CPP Module 07 | Templates in depth, containers in C++ | 🔒 |  |
+| 20 | CPP Module 08 | Templated containers, iterators in C++ | 🔒 |  |
+| 21 | NetPractice | Network and system administration exercises | 🔒 |  |
+| 22 | ft_containers | Implementation of containers in C++ | 🔒 |  |
+| 23 | ft_irc | Implementation of an IRC server | 🔒 |  |
+| 24 | webserv | Implementation of a basic HTTP server | 🔒 |  |
+| 25 | Inception | Docker-Compose project | 🔒 |  |
+| 26 | ft_transcendence | Implementation of a multiplayer game server | 🔒 |  |
 
 
-## E pluribus unum 🌍 [<img align="left" width="150" height="150" src="https://github.com/Javisanchezf/media/blob/main/javisanchezf.webp"></img>](https://github.com/Javisanchezf)
-01001100 01100001 00100000 01110010 01100101 01110011 01110000 01110101 01100101 01110011 01110100 01100001 00100000 01100001 01101100 00100000 01110011 01100101 01101110 01110100 01101001 01100100 01101111 00100000 01100100 01100101 00100000 01101100 01100001 00100000 01110110 01101001 01100100 01100001 00101100 00100000 01100101 01101100 00100000 01110101 01101110 01101001 01110110 01100101 01110010 01110011 01101111 00100000 01111001 00100000 01110100 01101111 01100100 01101111 00100000 01101100 01101111 00100000 01100100 01100101 01101101 11100001 01110011 00100000 01100101 01110011 00100000 00110100 00110010
+---
+
+<div align="center">
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/javiersa?1337Badge=off&UM6P=off" alt="javiersa's 42 stats" /></a>
+</div>
 
 
+</div>
+</details>
+
+<details>
+  <summary>🛠️ Personal projects</summary>
+<div align="center">
+  Cooming soon...
+</details>
+
+<details>
+  <summary>📈 GitHub Stats</summary>
+<div align="center">
+
+<h2>Github Stats</h2>
+
+![](https://github-readme-stats.vercel.app/api?username=javisanchezf&theme=light&hide_border=true&include_all_commits=false&count_private=false)<br/>
+
+---
+
+
+![](https://github-profile-trophy.vercel.app/?username=javisanchezf&theme=flat&no-frame=true&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=javisanchezf&icon=3&color=1)](https://visitcount.itsvg.in)
+
+</div>
+</details>
 
 <h3 align = right>Share the profile!</h3>
 
@@ -27,3 +139,6 @@ I’m a industrial organization engineer who is passionate about marketing, star
 [<img src="https://github.com/Javisanchezf/media/blob/main/telegram-icon.webp" width="50" height="50" align = right></img>](https://t.me/share/url?url=https://github.com/javisanchezf&text=Hey!%20Check%20out%20this%20cool%20profile%20I%20found%20on%20Github.)
 [<img src="https://github.com/Javisanchezf/media/blob/main/twitter-icon.png" width="50" height="50" align = right></img>](https://twitter.com/intent/tweet?url=https://github.com/Javisanchezf&text=Hey!%20Check%20out%20this%20cool%20repository%20I%20found%20on%20Github)
 [<img src="https://github.com/Javisanchezf/media/blob/main/linkedin-icon.png" width="50" height="50" align = right></img>](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/javisanchezf)
+
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1D5CAE&center=true&vCenter=true&width=435&lines=Creativity+%2B+Knowledge+%3D+Success;Knowmad+as+a+lifestyle;Able+to+work+in+team+and+individual" alt="Typing SVG" /></p>
+</body>
