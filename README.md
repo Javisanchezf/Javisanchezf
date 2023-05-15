@@ -77,7 +77,7 @@
 | 05 | [push_swap](../../../42Malaga-push_swap) | A sorting algorithm using two stacks | ✅ | 100/100 |
 | 06 | [minitalk](../../../42Malaga-minitalk)                | A client-server program to exchange messages using signals | ✅ | 125/100 |
 | 07 | [FdF](../../../42Malaga-fdf)                          | A 3D wireframe renderer | ✅ | 123/100 |
-| 08 | Philosphers | A program that simulates the dining philosophers problem | 🛠️ |  |
+| 08 | [Philosphers](../../../42Malaga-philosophers)  | A program that simulates the dining philosophers problem | ✅ | 125/100 |
 | 09 | minishell | A UNIX shell implementation | 🛠️ |  |
 | 10 | cub3d | A raycasting 3D game engine | 🔒 |  |
 | 11 | miniRT | A raytracing program that generates images from 3D scenes | 🔒 |  |
