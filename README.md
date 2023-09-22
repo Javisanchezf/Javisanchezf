@@ -78,7 +78,7 @@
 | 06 | [minitalk](../../../42Malaga-minitalk)                | A client-server program to exchange messages using signals | ✅ | 125/100 |
 | 07 | [FdF](../../../42Malaga-fdf)                          | A 3D wireframe renderer | ✅ | 123/100 |
 | 08 | [Philosphers](../../../42Malaga-philosophers)  | A program that simulates the dining philosophers problem | ✅ | 125/100 |
-| 09 | [minishell](../../../42Malaga-minishell) | A UNIX shell implementation | 🛠️ |  |
+| 09 | [minishell](../../../42Malaga-minishell) | A UNIX shell implementation | ✅ | 95/100 |
 | 10 | cub3d | A raycasting 3D game engine | 🛠️ |  |
 | 11 | miniRT | A raytracing program that generates images from 3D scenes | 🔒 |  |
 | 12 | [CPP Module 00](../../../42Malaga-CPP/tree/master/CPP00) | Introduction to C++ | ✅ | 80/100 |
