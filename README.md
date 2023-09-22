@@ -78,13 +78,13 @@
 | 06 | [minitalk](../../../42Malaga-minitalk)                | A client-server program to exchange messages using signals | ✅ | 125/100 |
 | 07 | [FdF](../../../42Malaga-fdf)                          | A 3D wireframe renderer | ✅ | 123/100 |
 | 08 | [Philosphers](../../../42Malaga-philosophers)  | A program that simulates the dining philosophers problem | ✅ | 125/100 |
-| 09 | minishell | A UNIX shell implementation | 🛠️ |  |
-| 10 | cub3d | A raycasting 3D game engine | 🔒 |  |
+| 09 | [minishell](../../../42Malaga-minishell) | A UNIX shell implementation | 🛠️ |  |
+| 10 | cub3d | A raycasting 3D game engine | 🛠️ |  |
 | 11 | miniRT | A raytracing program that generates images from 3D scenes | 🔒 |  |
-| 12 | CPP Module 00 | Introduction to C++ | 🔒 |  |
-| 13 | CPP Module 01 | Memory allocation and references in C++ | 🔒 |  |
-| 14 | CPP Module 02 | Ad-hoc polymorphism, operators overload and canonical classes in C++ | 🔒 |  |
-| 15 | CPP Module 03 | Inheritance in C++ | 🔒 |  |
+| 12 | [CPP Module 00](../../../42Malaga-CPP/tree/master/CPP00) | Introduction to C++ | ✅ | 80/100 |
+| 13 | [CPP Module 01](../../../42Malaga-CPP/tree/master/CPP01) | Memory allocation and references in C++ | ✅ | 100/100 |
+| 14 | [CPP Module 02](../../../42Malaga-CPP/tree/master/CPP02) | Ad-hoc polymorphism, operators overload and canonical classes in C++ | ✅ | 80/100 |
+| 15 | CPP Module 03 | Inheritance in C++ | 🛠️ |  |
 | 16 | CPP Module 04 | Subtype polymorphism, abstract classes, interfaces in C++ | 🔒 |  |
 | 17 | CPP Module 05 | Nested classes, exceptions, and file streams in C++ | 🔒 |  |
 | 18 | CPP Module 06 | Casts in C++, templates, STL | 🔒 |  |
