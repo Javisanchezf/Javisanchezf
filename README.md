@@ -79,18 +79,17 @@
 | 07 | [FdF](../../../42Malaga-fdf)                          | A 3D wireframe renderer | ✅ | 123/100 |
 | 08 | [Philosphers](../../../42Malaga-philosophers)  | A program that simulates the dining philosophers problem | ✅ | 125/100 |
 | 09 | [minishell](../../../42Malaga-minishell) | A UNIX shell implementation | ✅ | 95/100 |
-| 10 | cub3d | A raycasting 3D game engine | 🛠️ |  |
-| 11 | miniRT | A raytracing program that generates images from 3D scenes | 🔒 |  |
+| 10 | [cub3d](../../../42Malaga-cub3D) | A raycasting 3D game engine | ✅ | 125/100 |
 | 12 | [CPP Module 00](../../../42Malaga-CPP/tree/master/CPP00) | Introduction to C++ | ✅ | 80/100 |
 | 13 | [CPP Module 01](../../../42Malaga-CPP/tree/master/CPP01) | Memory allocation and references in C++ | ✅ | 100/100 |
 | 14 | [CPP Module 02](../../../42Malaga-CPP/tree/master/CPP02) | Ad-hoc polymorphism, operators overload and canonical classes in C++ | ✅ | 80/100 |
-| 15 | CPP Module 03 | Inheritance in C++ | 🛠️ |  |
-| 16 | CPP Module 04 | Subtype polymorphism, abstract classes, interfaces in C++ | 🔒 |  |
-| 17 | CPP Module 05 | Nested classes, exceptions, and file streams in C++ | 🔒 |  |
+| 15 | [CPP Module 03](../../../42Malaga-CPP/tree/master/CPP03) | Inheritance in C++ | ✅ | 80/100 |
+| 16 | [CPP Module 04](../../../42Malaga-CPP/tree/master/CPP04) | Subtype polymorphism, abstract classes, interfaces in C++ | ✅ | 100/100 |
+| 17 | CPP Module 05 | Nested classes, exceptions, and file streams in C++ | 🛠️ |  |
 | 18 | CPP Module 06 | Casts in C++, templates, STL | 🔒 |  |
 | 19 | CPP Module 07 | Templates in depth, containers in C++ | 🔒 |  |
 | 20 | CPP Module 08 | Templated containers, iterators in C++ | 🔒 |  |
-| 21 | NetPractice | Network and system administration exercises | 🔒 |  |
+| 21 | NetPractice | Network and system administration exercises | ✅ | 100/100 |
 | 22 | ft_containers | Implementation of containers in C++ | 🔒 |  |
 | 23 | ft_irc | Implementation of an IRC server | 🔒 |  |
 | 24 | webserv | Implementation of a basic HTTP server | 🔒 |  |
