@@ -1,6 +1,6 @@
 <h1 align="center"> <img width="80" height="80" src="https://github.com/Javisanchezf/media/blob/main/javisanchezf.webp"> Hi, I’m Javi</img>  </h1>
 <h3 align="center">Industrial Management Engineer | 42 Málaga student | Knowmad</h3>
-<h4 align="center">See my <a href="https://github.com/Javisanchezf/Javisanchezf/blob/main/CV-FranciscoJavierS%C3%A1nchezFern%C3%A1ndez-EN.pdf" target="_blank">resume</a> for more</h4>
+<h4 align="center">See my <a href="https://github.com/Javisanchezf/Javisanchezf/blob/main/Javier-Sanchez-Fernandez-CV_compressed.pdf" target="_blank">resume</a> for more</h4>
 
 <picture>
   <source
@@ -22,7 +22,7 @@
 </picture>
 
 <details>
-  <summary>🧍 About me</summary>
+  <summary>About me</summary>
 <h2 align="center">About me</h2>
 
 <p>I’m a Industrial Management Engineer who is passionate about marketing, startups and technology. I have recently joined the community and I look forward to contributing as much as I can! I love the concepts of open-source, teamwork and knowledge sharing in general creating technology to elevate people, and bullding community.
@@ -37,12 +37,12 @@
 
 <h3>Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=bash,vim,vscode,stackoverflow,github,git,visualstudio,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,vim,vscode,github,git,visualstudio,docker,wordpress)](https://skillicons.dev)
 
 </details>
 
 <details>
-  <summary>📱 Contact</summary>
+  <summary>Contact</summary>
 <div align="center">
     <h2 align="center">You can reach me by:</h2>
     <p align="center">
@@ -61,7 +61,7 @@
 </details>
 
 <details>
-  <summary>🎓 42 Cursus projects</summary>
+  <summary>42 Cursus projects</summary>
 <div align="center">
 
 <h2>42 Cursus projects</h2>
@@ -85,16 +85,15 @@
 | 14 | [CPP Module 02](../../../42Malaga-CPP/tree/master/CPP02) | Ad-hoc polymorphism, operators overload and canonical classes in C++ | ✅ | 80/100 |
 | 15 | [CPP Module 03](../../../42Malaga-CPP/tree/master/CPP03) | Inheritance in C++ | ✅ | 80/100 |
 | 16 | [CPP Module 04](../../../42Malaga-CPP/tree/master/CPP04) | Subtype polymorphism, abstract classes, interfaces in C++ | ✅ | 100/100 |
-| 17 | CPP Module 05 | Nested classes, exceptions, and file streams in C++ | 🛠️ |  |
-| 18 | CPP Module 06 | Casts in C++, templates, STL | 🔒 |  |
-| 19 | CPP Module 07 | Templates in depth, containers in C++ | 🔒 |  |
-| 20 | CPP Module 08 | Templated containers, iterators in C++ | 🔒 |  |
-| 21 | NetPractice | Network and system administration exercises | ✅ | 100/100 |
-| 22 | ft_containers | Implementation of containers in C++ | 🔒 |  |
-| 23 | ft_irc | Implementation of an IRC server | 🔒 |  |
-| 24 | webserv | Implementation of a basic HTTP server | 🔒 |  |
-| 25 | Inception | Docker-Compose project | 🔒 |  |
-| 26 | ft_transcendence | Implementation of a multiplayer game server | 🔒 |  |
+| 17 | [CPP Module 05](../../../42Malaga-CPP/tree/master/CPP05) | Nested classes, exceptions, and file streams in C++ | ✅ | 100/100 |
+| 18 | [CPP Module 06](../../../42Malaga-CPP/tree/master/CPP06) | Casts in C++, templates, STL | ✅ | 100/100 |
+| 19 | [CPP Module 07](../../../42Malaga-CPP/tree/master/CPP07) | Templates in depth, containers in C++ | ✅ | 100/100 |
+| 20 | [CPP Module 08](../../../42Malaga-CPP/tree/master/CPP08) | Templated containers, iterators in C++ | ✅ | 100/100 |
+| 21 | [CPP Module 09](../../../42Malaga-CPP/tree/master/CPP09) | Templated containers, iterators in C++ | ✅ | 100/100 |
+| 22 | NetPractice | Network and system administration exercises | ✅ | 100/100 |
+| 23 | webserv | Implementation of a basic HTTP server | 🛠️ |  |
+| 24 | Inception | Docker-Compose project | 🛠️ |  |
+| 25 | ft_transcendence | Implementation of a multiplayer game server | 🔒 |  |
 
 ---
 
@@ -106,13 +105,13 @@
 </details>
 
 <details>
-  <summary>🛠️ Personal projects</summary>
+  <summary>Personal projects</summary>
 <div align="center">
   Cooming soon...
 </details>
 
 <details>
-  <summary>📈 GitHub Stats</summary>
+  <summary>GitHub Stats</summary>
 <div align="center">
 
 <h2>Github Stats</h2>
