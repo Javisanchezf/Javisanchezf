@@ -1,4 +1,4 @@
-<h1 align="center"> <img width="80" height="80" src="https://github.com/Javisanchezf/media/blob/main/javisanchezf.webp"> Hi, I’m Javi</img>  </h1>
+<h1 align="center">Hi, I’m Javi</img>  </h1>
 <h3 align="center">Industrial Management Engineer | 42 Málaga student | Knowmad</h3>
 <h4 align="center">See my <a href="https://github.com/Javisanchezf/Javisanchezf/blob/main/Javier-Sanchez-Fernandez-CV_compressed.pdf" target="_blank">resume</a> for more</h4>
 
@@ -19,14 +19,14 @@
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
+</picture>
+
 <div align="center">
 <br>
 
 [![](https://visitcount.itsvg.in/api?id=javisanchezf&icon=3&color=3)](https://visitcount.itsvg.in)
 
 </div>
-</picture>
-
 <details>
   <summary>About me</summary>
 <h2 align="center">About me</h2>
