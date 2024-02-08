@@ -24,7 +24,7 @@
 <div align="center">
 <br>
 
-[![](https://visitcount.itsvg.in/api?id=javisanchezf&icon=3&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=javisanchezf&icon=3&color=9)](https://visitcount.itsvg.in)
 
 </div>
 <details>
@@ -48,7 +48,7 @@
 </details>
 
 <details>
-  <summary>📱 Contact</summary>
+  <summary> Contact</summary>
 <div align="center">
     <h2 align="center">You can reach me by:</h2>
     <p align="center">
@@ -111,13 +111,13 @@
 </details>
 
 <details>
-  <summary>🛠️ Personal projects</summary>
+  <summary>Personal projects</summary>
 <div align="center">
   Cooming soon...
 </details>
 
 <details>
-  <summary>📈 GitHub Stats</summary>
+  <summary>GitHub Stats</summary>
 <div align="center">
 
 <h2>Github Stats</h2>
