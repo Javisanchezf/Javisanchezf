@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I’m Javier</img>  </h1>
+<h1 align="center"> <img width="80" height="80" src="https://github.com/Javisanchezf/media/blob/main/javisanchezf.webp"> Hi, I’m Javi</img>  </h1>
 <h3 align="center">Industrial Management Engineer | 42 Málaga student | Knowmad</h3>
 <h4 align="center">See my <a href="https://github.com/Javisanchezf/Javisanchezf/blob/main/Javier-Sanchez-Fernandez-CV_compressed.pdf" target="_blank">resume</a> for more</h4>
 
@@ -19,6 +19,12 @@
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
+<div align="center">
+<br>
+
+[![](https://visitcount.itsvg.in/api?id=javisanchezf&icon=3&color=3)](https://visitcount.itsvg.in)
+
+</div>
 </picture>
 
 <details>
@@ -42,7 +48,7 @@
 </details>
 
 <details>
-  <summary>Contact</summary>
+  <summary>📱 Contact</summary>
 <div align="center">
     <h2 align="center">You can reach me by:</h2>
     <p align="center">
@@ -105,13 +111,13 @@
 </details>
 
 <details>
-  <summary>Personal projects</summary>
+  <summary>🛠️ Personal projects</summary>
 <div align="center">
   Cooming soon...
 </details>
 
 <details>
-  <summary>GitHub Stats</summary>
+  <summary>📈 GitHub Stats</summary>
 <div align="center">
 
 <h2>Github Stats</h2>
@@ -123,8 +129,6 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=javisanchezf&theme=flat&no-frame=true&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=javisanchezf&icon=3&color=1)](https://visitcount.itsvg.in)
 
 </div>
 </details>
