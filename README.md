@@ -1,4 +1,4 @@
-<h1 align="center"> <img width="80" height="80" src="https://github.com/Javisanchezf/media/blob/main/javisanchezf.webp"> Hi, I’m Javi</img>  </h1>
+<h1 align="center">Hi, I’m Javier</img>  </h1>
 <h3 align="center">Industrial Management Engineer | 42 Málaga student | Knowmad</h3>
 <h4 align="center">See my <a href="https://github.com/Javisanchezf/Javisanchezf/blob/main/Javier-Sanchez-Fernandez-CV_compressed.pdf" target="_blank">resume</a> for more</h4>
 
